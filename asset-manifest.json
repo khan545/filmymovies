@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filmymovies/static/css/main.31d5b74a.css",
+    "main.js": "/filmymovies/static/js/main.43a555fb.js",
+    "static/js/787.e8e571db.chunk.js": "/filmymovies/static/js/787.e8e571db.chunk.js",
+    "index.html": "/filmymovies/index.html",
+    "main.31d5b74a.css.map": "/filmymovies/static/css/main.31d5b74a.css.map",
+    "main.43a555fb.js.map": "/filmymovies/static/js/main.43a555fb.js.map",
+    "787.e8e571db.chunk.js.map": "/filmymovies/static/js/787.e8e571db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d5b74a.css",
+    "static/js/main.43a555fb.js"
+  ]
+}
